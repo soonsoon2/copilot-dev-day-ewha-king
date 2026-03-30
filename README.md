@@ -30,20 +30,23 @@ GitHub Copilot은 전세계에서 가장 많은 개발자들이 사용하는 개
 ## 🎤 발표자 & 세션
 
 ### 🥇 송용성 — Microsoft AI MVP · 순순팩토리 대표
-> **"VS Code와 Copilot, 왜 써야 할까"**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-송용성-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/soonsoon/)
+> **"VS Code와 Copilot, 왜 써야 할까"
 
 Microsoft AI MVP이자 순순팩토리 대표로, VS Code와 GitHub Copilot이 개발자의 생산성을 어떻게 바꾸는지, 실제 사용 경험을 바탕으로 생생하게 전달합니다.
 
 ---
 
 ### 🥈 채윤호 — 리니지 · 아키에이지 메인 기획자
-> **"전설의 게임 기획자가 말아주는 AI 활용 비법"**
+[![Facebook](https://img.shields.io/badge/Facebook-채윤호-1877F2?style=flat&logo=facebook)](https://www.facebook.com/younho.chae)
+> **"전설의 게임 기획자가 말아주는 AI 활용 비법"
 
 리니지, 아키에이지 등 한국 게임 역사에 남을 타이틀들의 메인 기획자가 직접 들려주는, 게임 개발 현장에서의 AI 활용 노하우와 인사이트를 공유합니다.
 
 ---
 
 ### 🥉 송요창 — 배달의민족 시니어 개발자
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-송요창-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/totuworld/)
 > **"현업에서 바라보는 VS Code 사용법과 취업에 도움되는 시크릿 꿀팁"**
 
 배달의민족 시니어 개발자로 근무하며 쌓아온 실전 VS Code 활용법과, 취업을 앞둔 학생들을 위한 아무도 알려주지 않는 시크릿 꿀팁을 공개합니다.
