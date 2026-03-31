@@ -1,0 +1,77 @@
+<svg width="1200" height="400" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Arial, sans-serif">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="60%" style="stop-color:#161b22"/>
+      <stop offset="100%" style="stop-color:#1a2332"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2ea043"/>
+      <stop offset="100%" style="stop-color:#3fb950"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2ea043;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#2ea043;stop-opacity:1"/>
+      <stop offset="70%" style="stop-color:#3fb950;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#3fb950;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="400" fill="url(#bg)"/>
+
+  <!-- Decorative grid dots -->
+  <g opacity="0.07" fill="#58a6ff">
+    <circle cx="50" cy="50" r="2"/><circle cx="150" cy="50" r="2"/><circle cx="250" cy="50" r="2"/>
+    <circle cx="50" cy="150" r="2"/><circle cx="150" cy="150" r="2"/><circle cx="250" cy="150" r="2"/>
+    <circle cx="50" cy="250" r="2"/><circle cx="150" cy="250" r="2"/><circle cx="250" cy="250" r="2"/>
+    <circle cx="50" cy="350" r="2"/><circle cx="150" cy="350" r="2"/><circle cx="250" cy="350" r="2"/>
+    <circle cx="950" cy="50" r="2"/><circle cx="1050" cy="50" r="2"/><circle cx="1150" cy="50" r="2"/>
+    <circle cx="950" cy="150" r="2"/><circle cx="1050" cy="150" r="2"/><circle cx="1150" cy="150" r="2"/>
+    <circle cx="950" cy="250" r="2"/><circle cx="1050" cy="250" r="2"/><circle cx="1150" cy="250" r="2"/>
+    <circle cx="950" cy="350" r="2"/><circle cx="1050" cy="350" r="2"/><circle cx="1150" cy="350" r="2"/>
+  </g>
+
+  <!-- Green accent line top -->
+  <rect x="0" y="0" width="1200" height="4" fill="url(#accent)"/>
+
+  <!-- GitHub Copilot icon (octopus silhouette simplified) -->
+  <g transform="translate(90, 110)" opacity="0.9">
+    <circle cx="0" cy="0" r="48" fill="none" stroke="#2ea043" stroke-width="2.5"/>
+    <text x="0" y="16" text-anchor="middle" font-size="48" fill="#2ea043">⬡</text>
+  </g>
+
+  <!-- Main title -->
+  <text x="600" y="130" text-anchor="middle" font-size="48" font-weight="700" fill="#ffffff" letter-spacing="-1">
+    GitHub Copilot Dev Day
+  </text>
+
+  <!-- Subtitle Korean -->
+  <text x="600" y="185" text-anchor="middle" font-size="28" font-weight="600" fill="#3fb950">
+    × 이화여자대학교 KING 게임 동아리
+  </text>
+
+  <!-- Divider line -->
+  <rect x="200" y="210" width="800" height="2" fill="url(#line)"/>
+
+  <!-- Event details row -->
+  <text x="360" y="260" text-anchor="middle" font-size="20" fill="#8b949e">📅 일시</text>
+  <text x="360" y="288" text-anchor="middle" font-size="22" font-weight="600" fill="#c9d1d9">2025. 04. 13 (월) 19:00–21:00</text>
+
+  <rect x="590" y="245" width="2" height="55" fill="#30363d"/>
+
+  <text x="840" y="260" text-anchor="middle" font-size="20" fill="#8b949e">📍 장소</text>
+  <text x="840" y="288" text-anchor="middle" font-size="22" font-weight="600" fill="#c9d1d9">한국 마이크로소프트 광화문 본사 13F</text>
+
+  <!-- Bottom divider -->
+  <rect x="200" y="318" width="800" height="1" fill="#21262d"/>
+
+  <!-- Bottom tagline -->
+  <text x="600" y="358" text-anchor="middle" font-size="18" fill="#484f58">
+    AI와 함께하는 개발의 혁신  ·  Powered by GitHub Copilot
+  </text>
+
+  <!-- Bottom accent line -->
+  <rect x="0" y="396" width="1200" height="4" fill="url(#accent)"/>
+</svg>

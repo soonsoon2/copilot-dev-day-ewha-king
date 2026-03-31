@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GitHub Copilot Dev Day × KING](https://img.shields.io/badge/GitHub%20Copilot%20Dev%20Day-KING%20%7C%20이화여자대학교-brightgreen?style=for-the-badge&logo=github)
+![GitHub Copilot Dev Day × 이화여자대학교 KING 게임 동아리](assets/banner.svg)
 
 </div>
 
