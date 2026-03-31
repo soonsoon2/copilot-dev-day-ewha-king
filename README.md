@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GitHub Copilot Dev Day × 이화여자대학교 KING 게임 동아리](assets/banner.svg)
+![GitHub Copilot Dev Day × 이화여자대학교 KING 게임 동아리](assets/banner.png)
 
 </div>
 
